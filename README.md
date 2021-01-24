@@ -4,4 +4,4 @@
 
 Single Face Detection         |  Multiple Face Detection
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/icanerdogan/MLKit-Android-Apps/master/App%20Images/FaceDetectionApp1.png)  |  ![](https://raw.githubusercontent.com/icanerdogan/MLKit-Android-Apps/master/App%20Images/FaceDetectionApp2.png)
+![](https://raw.githubusercontent.com/icanerdogan/MLKit-Android-Apps/master/App%20Images/FaceDetectionApp1.jpg)  |  ![](https://raw.githubusercontent.com/icanerdogan/MLKit-Android-Apps/master/App%20Images/FaceDetectionApp2.jpg)
